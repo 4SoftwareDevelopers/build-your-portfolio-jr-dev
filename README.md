@@ -3,6 +3,7 @@
 Este repositorio es una **guía para desarrolladores junior** que quieren construir proyectos atractivos para su portafolio y usarlos en entrevistas de trabajo. La idea es que simules cómo sería trabajar en un producto real: primero analizas la necesidad de negocio, después justificas tu stack y finalmente programas un MVP con demo.
 
 Siguiendo esta estructura haces que tu portafolio se destaqué del resto, el reclutador o empresa puede verte en acción y además puede medir varias ramas de tu conocimiento.
+
 ---
 
 ## Cómo usar este repositorio
