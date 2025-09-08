@@ -43,6 +43,8 @@ En [IDEAS.md](./IDEAS.md) encontrarás propuestas inspiradas en **marcas reconoc
 * Sé realista con el alcance, concéntrate en un MVP funcional.
 * Recuerda que cada repo que construyas es una muestra de tu potencial como dev.
 
+> Creador por [@jordy_4sd](https://x.com/jordy_4sd)
+
 > Inspirado en el trabajo de [@blindma1den](https://github.com/blindma1den) en su repo  
 > [Programming-Skills-Jr-Level](https://github.com/blindma1den/Programming-Skills-Jr-Level/)
 
