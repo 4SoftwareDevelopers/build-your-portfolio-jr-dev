@@ -1,4 +1,4 @@
-# FLOW\.md
+# FLUJO\.md
 
 Este repositorio existe para ayudarte a construir proyectos que se conviertan en un portafolio atractivo. La idea es que simules cómo sería trabajar en un producto real: primero analizas y documentas la necesidad de negocio, luego eliges tu stack y justificas tu decisión, y finalmente programas la solución.
 
