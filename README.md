@@ -11,7 +11,7 @@ Siguiendo esta estructura haces que tu portafolio se destaqué del resto, el rec
 1. Lee el archivo [FLUJO.md](./flujo.md) para entender qué documentos debes crear en tu carpeta `docs/`.
 2. Revisa [IDEAS.md](./ideas.md) y elige el proyecto que más te interese.
 3. Crea un **nuevo repositorio** para tu solución.
-4. Dentro de ese repo, crea una carpeta `docs/` y escribe cada archivo según las instrucciones de `FLOW.md`.
+4. Dentro de ese repo, crea una carpeta `docs/` y escribe cada archivo según las instrucciones de `FLUJO.md`.
 5. Programa el MVP con el stack que decidas y justifiques.
 6. Publica un demo (o un video corto mostrando el flujo principal).
 7. Actualiza tu README del proyecto para que cualquier reclutador/empresa entienda rápido qué hiciste.
