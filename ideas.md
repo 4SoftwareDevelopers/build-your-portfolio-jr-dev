@@ -23,7 +23,7 @@ En esta sección encontrarás cinco ideas de aplicaciones planteadas como si fue
 
 **Pantallas mínimas:** Catálogo de series, formulario de calificación, dashboard de resultados.
 
-**Por qué es atractivo:** Combina UX simple con un backend que procesa encuestas y genera métricas. En entrevista puedes hablar de visualizaciones, datos agregados y escalabilidad.
+**¿Por qué es atractivo?:** Combina UX simple con un backend que procesa encuestas y genera métricas. En entrevista puedes hablar de visualizaciones, datos agregados y escalabilidad.
 
 ---
 
@@ -45,7 +45,7 @@ En esta sección encontrarás cinco ideas de aplicaciones planteadas como si fue
 
 **Pantallas mínimas:** Registro de compra, listado de puntos, catálogo de recompensas.
 
-**Por qué es atractivo:** Es un caso real de loyalty program, presente en muchas industrias (comida rápida, retail, etc.). Muestra que sabes modelar reglas de negocio y estados.
+**¿Por qué es atractivo?:** Es un caso real de loyalty program, presente en muchas industrias (comida rápida, retail, etc.). Muestra que sabes modelar reglas de negocio y estados.
 
 ---
 
@@ -88,7 +88,7 @@ En esta sección encontrarás cinco ideas de aplicaciones planteadas como si fue
 
 **Pantallas mínimas:** Playlist, agregar sugerencias, ranking.
 
-**Por qué es atractivo:** Demuestra cómo implementar votos, ranking y colaboración en tiempo real o casi real. Son features que llaman la atención a cualquier reclutador.
+**¿Por qué es atractivo?:** Demuestra cómo implementar votos, ranking y colaboración en tiempo real o casi real. Son features que llaman la atención a cualquier reclutador.
 
 ---
 
