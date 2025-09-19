@@ -31,7 +31,7 @@ Siguiendo esta estructura haces que tu portafolio se destaqué del resto, el rec
 
 ## Ideas disponibles
 
-En [IDEAS.md](./IDEAS.md) encontrarás propuestas inspiradas en **marcas reconocidas** como Netflix, Starbucks o Nike. Se eligieron porque son fáciles de identificar y hacen que tu proyecto llame más la atención.
+En [IDEAS.md](./ideas.md) encontrarás propuestas inspiradas en **marcas reconocidas** como Netflix, Starbucks o Nike. Se eligieron porque son fáciles de identificar y hacen que tu proyecto llame más la atención.
 
 > **Nota:** No te limites a esas marcas. Lo importante es la **necesidad de negocio**. Si prefieres, adapta la idea a otra marca que te motive o a un caso de tu localidad/país.
 
